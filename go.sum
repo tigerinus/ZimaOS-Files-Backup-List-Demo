@@ -1,5 +1,5 @@
-github.com/IceWhaleTech/ZimaOS-Common v1.1.1-alpha2.0.20240423093119-23dfbab7eceb h1:o6NvlBXjt5U29gNUZxaQh/3/lUQCHTGOG8t1rL74T5Y=
-github.com/IceWhaleTech/ZimaOS-Common v1.1.1-alpha2.0.20240423093119-23dfbab7eceb/go.mod h1:bZnqMsCkk23/oEqaW6lZ9TTX3eNQkyxO/9k68fsnro0=
+github.com/IceWhaleTech/ZimaOS-Common v1.1.2 h1:YggrBF3DJU3cOxD+2yW3RGGmof5cKXkOZjWWv0TT2fg=
+github.com/IceWhaleTech/ZimaOS-Common v1.1.2/go.mod h1:bZnqMsCkk23/oEqaW6lZ9TTX3eNQkyxO/9k68fsnro0=
 github.com/RaveNoX/go-jsoncommentstrip v1.0.0/go.mod h1:78ihd09MekBnJnxpICcwzCMzGrKSKYe4AqU6PDYYpjk=
 github.com/apapsch/go-jsonmerge/v2 v2.0.0 h1:axGnT1gRIfimI7gJifB699GoE/oq+F2MU7Dml6nw9rQ=
 github.com/apapsch/go-jsonmerge/v2 v2.0.0/go.mod h1:lvDnEdqiQrp0O42VQGgmlKpxL1AP2+08jFMw88y4klk=
