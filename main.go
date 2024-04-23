@@ -6,12 +6,13 @@ import (
 	"fmt"
 	"log"
 
+	"github.com/IceWhaleTech/ZimaOS-Common/constants"
 	commonFilesbackup "github.com/IceWhaleTech/ZimaOS-Common/filesbackup"
 	"github.com/tigerinus/ZimaOS-Files-Backup-List-Demo/codegen/filesbackup"
 )
 
 func main() {
-	metadataPath := commonFilesbackup.DefaultMetadataPath("/var/lib/icewhale")
+	metadataPath := commonFilesbackup.DefaultMetadataPath(constants.DefaultDataPath)
 	allBackups, err := commonFilesbackup.GetAllBackups[filesbackup.FolderBackup](metadataPath)
 	if err != nil {
 		log.Fatalf("Error getting all backups: %v", err)
